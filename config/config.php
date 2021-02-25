@@ -34,7 +34,6 @@ $CONFIG = array (
   'datadirectory' => '/var/www/html/data',
   'dbtype' => 'mysql',
   'version' => '21.0.0.18',
-  'overwrite.cli.url' => 'http://cloud.tchateigne.fr',
   'dbname' => 'nextcloud',
   'dbhost' => 'nextcloud-db',
   'dbport' => '',
